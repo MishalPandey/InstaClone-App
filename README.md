@@ -15,4 +15,4 @@ App link:- (https://drive.google.com/file/d/17sOvxQCujsM0hPWye8urgKvriXymJhHB/vi
 • Home Screen (Profile, UploadScreen..
 
 # ScreenShot 
-[DonorsbookGithub1.docx](https://github.com/MishalPandey/InstaClone-App/files/10421549/DonorsbookGithub1.docx)
+![DonorsbookGithub1 (4)](https://user-images.githubusercontent.com/91657594/212574187-9b7fa364-129a-452d-8674-7f3560da8ea9.jpg)
