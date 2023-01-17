@@ -1,5 +1,5 @@
 # InstaClone-App ✨
-Instagram Clone App\
+Instagram Clone App
 
 App link:- (https://drive.google.com/file/d/17sOvxQCujsM0hPWye8urgKvriXymJhHB/view?usp=drivesdk )
 # About 
